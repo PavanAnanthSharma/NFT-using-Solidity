@@ -200,7 +200,7 @@ To get started with Brownie:
 * ["Getting Started with Brownie"](https://medium.com/@iamdefinitelyahuman/getting-started-with-brownie-part-1-9b2181f4cb99) is a good tutorial to help you familiarize yourself with Brownie.
 * For more in-depth information, read the [Brownie documentation](https://eth-brownie.readthedocs.io/en/stable/).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->If you enjoyed this tutorial then do consder following me here on github and on instagram
+>If you enjoyed this tutorial then do consder following me here on github and on instagram for more of blochchain related information.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
