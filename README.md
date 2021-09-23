@@ -81,7 +81,7 @@ AND THEN RUN `source .env` TO ACTIVATE THE ENV VARIABLES
 Or you can run the above in your shell. 
 
 
-# Usage
+# Usage 
 
 There are 2 types of NFTs here. 
 1. `SimpleCollectibles.sol`
